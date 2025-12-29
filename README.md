@@ -4,6 +4,8 @@ MyEditor is a web-based live code editor where users can write and preview HTML,
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://mycodeditor.vercel.app/)
 
+![MyCodEditor Interface](/preview.png)
+
 ---
 
 ## **Features**
